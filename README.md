@@ -4,7 +4,7 @@
 <p>I used these technologies:</p>
 
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,react-native">
+    <img src="https://skillicons.dev/icons?i=html,css,react">
 </div><br>
 
 <hr>
